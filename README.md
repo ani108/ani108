@@ -159,3 +159,35 @@ Backend Projects
 Frontend Development
   ↓
 Full-Stack Development
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ani108&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani108&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 📂 My Repositories
+
+I use GitHub to document my **learning journey, DSA practice, academic work, experiments, and software projects**.
+
+<p align="center">
+  <a href="https://github.com/ani108?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ani108&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
