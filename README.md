@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student | Java • DSA • Spring Boot
 
-I'm a Computer Engineering student focused on building strong foundations in **Data Structures & Algorithms, Java, backend development, and software engineering**.
+I'm a Computer Engineering student focused on **Data Structures & Algorithms, Java, backend development, and software engineering**.
 
 Currently, I'm focusing on **Java + Spring Boot** to build practical backend applications and strengthen my problem-solving skills for software development roles.
 
@@ -24,28 +24,28 @@ Currently, I'm focusing on **Java + Spring Boot** to build practical backend app
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+- ☕ Java
+- 🐍 Python
+- C
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- REST APIs
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- MySQL
+- MongoDB
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
 
 ---
 
@@ -55,7 +55,7 @@ Currently, I'm focusing on **Java + Spring Boot** to build practical backend app
 
 I'm currently working through a **62-hour Java & Spring Boot course by Telusko**, focusing on building a strong foundation in backend development.
 
-Areas I'm focusing on:
+### Areas I'm focusing on:
 
 - Core Java
 - Object-Oriented Programming
@@ -76,7 +76,7 @@ My goal is to understand the concepts properly and apply them through real proje
 
 I'm consistently working on **Data Structures & Algorithms** to improve my problem-solving and coding skills.
 
-### Topics I'm working on
+### Topics I'm Working On
 
 - Arrays
 - Strings
@@ -92,9 +92,9 @@ I'm consistently working on **Data Structures & Algorithms** to improve my probl
 - Graphs
 - Dynamic Programming
 
-### 💻 Coding Profile
+### Coding Profile
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Animesh2501-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Animesh2501/)
+- 💻 [LeetCode](https://leetcode.com/u/Animesh2501/)
 
 ---
 
@@ -104,9 +104,13 @@ I'm consistently working on **Data Structures & Algorithms** to improve my probl
 
 A full-stack interview preparation platform focused on **DSA practice and progress tracking**.
 
-**Technologies used:**
+### Technologies Used
 
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
 
 ### Features
 
@@ -116,7 +120,7 @@ A full-stack interview preparation platform focused on **DSA practice and progre
 - 🔎 Topic-based navigation
 - 🔗 Backend API integration
 
-> I'm currently shifting my backend focus toward **Java + Spring Boot** for future projects.
+> My future backend projects will increasingly focus on **Java + Spring Boot**.
 
 ---
 
@@ -135,9 +139,11 @@ A full-stack interview preparation platform focused on **DSA practice and progre
 
 ## 🔮 What's Next
 
-My current focus is **Java + Spring Boot + DSA**.
+My current focus is:
 
-Once I have a strong backend foundation, I'll expand into frontend development and work toward becoming comfortable with full-stack development.
+**Java → DSA → Spring Boot → Backend Development**
+
+Once I have a strong backend foundation, I plan to expand into frontend development and work toward becoming comfortable with full-stack development.
 
 ### My Roadmap
 
@@ -160,34 +166,4 @@ Frontend Development
   ↓
 Full-Stack Development
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ani108&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani108&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
-# 📂 My Repositories
-
-I use GitHub to document my **learning journey, DSA practice, academic work, experiments, and software projects**.
-
-<p align="center">
-  <a href="https://github.com/ani108?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ani108&theme=github-dark&hide_border=true" />
-</p>
-
----
 
