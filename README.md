@@ -166,4 +166,88 @@ Frontend Development
   ↓
 Full-Stack Development
 
+---
 
+📂 My Repositories
+
+I use GitHub to document my learning journey, DSA practice, academic work, experiments, and software projects.
+
+My repositories include:
+
+🧠 DSA and coding practice
+📚 Academic projects and lab work
+💻 Programming experiments
+🚀 Personal projects
+🌱 Learning projects
+Explore My Work
+
+[**→ View All My Repositories**](https://github.com/ani108?tab=repositories)
+
+---
+
+## 📈 GitHub Activity
+
+My GitHub profile contains my contribution history, repository activity, commits, and coding work.
+
+[**→ View My GitHub Profile**](https://github.com/ani108)
+
+---
+
+## 🤝 Connect With Me
+
+I'm always open to connecting with other students, developers, and people interested in software development.
+
+### 💼 LinkedIn
+
+[Animesh Dasgupta](https://www.linkedin.com/in/animesh-dasgupta-628b27164/)
+
+### 💻 GitHub
+
+[ani108](https://github.com/ani108)
+
+### 🧠 LeetCode
+
+[Animesh2501](https://leetcode.com/u/Animesh2501/)
+
+### 📧 Email
+
+[animeshdasgupta32@gmail.com](mailto:animeshdasgupta32@gmail.com)
+
+---
+
+👨‍💻 A Little About Me
+
+I'm interested in software development, problem solving, and building things that actually work.
+
+Right now, I'm putting most of my effort into becoming a stronger Java developer and backend engineer, while consistently improving my DSA skills.
+
+I prefer learning by actually building and experimenting rather than only studying theory.
+
+My approach to programming is simple:
+
+Build → Break → Debug → Understand → Improve
+
+I'm documenting that process here through my projects, coding practice, academic work, and experiments.
+
+---
+
+⚡ Current Focus
+        ┌───────────────────────┐
+        │        Java           │
+        └───────────┬───────────┘
+                    ↓
+        ┌───────────────────────┐
+        │         DSA           │
+        └───────────┬───────────┘
+                    ↓
+        ┌───────────────────────┐
+        │     Spring Boot       │
+        └───────────┬───────────┘
+                    ↓
+        ┌───────────────────────┐
+        │  Backend Development  │
+        └───────────┬───────────┘
+                    ↓
+        ┌───────────────────────┐
+        │   Real-world Projects │
+        └───────────────────────┘
